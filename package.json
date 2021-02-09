@@ -1,7 +1,7 @@
 {
-    "name": "rpg-character-creation-api",
-    "version": "1.0.0",
-    "description": "Fake API Character creation RPG (Role-playing Game) based",
+    "name": "character-creation-rest-api",
+    "version": "1.0.1",
+    "description": "Yep a simple REST-API for testing, The data I use are just random things that pop out of my mind.",
     "main": "./dist/index.js",
     "author": "MarrieMitsu",
     "scripts": {
