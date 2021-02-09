@@ -30,7 +30,7 @@ export class CharacterService {
             let totalPage = Math.ceil(total / perPage);
 
             // Get all character
-            let characters = db.get("characters").value();
+            const characters = db.get("characters").value();
 
             if (!characters) {
                 return res.status(200).json({
@@ -42,10 +42,6 @@ export class CharacterService {
                 });
             }
             
-            characters.map(i => {
-                i.profile_image = `${process.env.URL}/images/${i.profile_image}`;
-                return i;
-            })
             return res.status(200).json({
                 "page": page,
                 "per_page": perPage,
@@ -79,7 +75,6 @@ export class CharacterService {
                 });
             }
 
-            character.profile_image = `${process.env.URL}/images/${character.profile_image}`;
             return res.status(200).json({ "data": character });
             
         } catch (err) {
