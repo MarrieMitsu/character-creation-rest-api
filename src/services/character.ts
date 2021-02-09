@@ -103,7 +103,7 @@ export class CharacterService {
 
             // Response
             const responseData: Characters = {
-                profile_image: `${process.env.URL}/images/default.png`,
+                profile_image: "default.png",
                 name: input.name,
                 bio: input.bio,
                 type: input.type,
