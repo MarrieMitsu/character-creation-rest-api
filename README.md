@@ -1,7 +1,7 @@
 # rpg-character-creation-api
 
 ## Description
-Fake API Character creation RPG (Role-playing Game) based
+Yep a simple REST-API for testing, The data I use are just random things that pop out of my mind.
 
 ## Usage
 
