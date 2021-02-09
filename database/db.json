@@ -1,0 +1,60 @@
+{
+    "characters": [
+        {
+            "character_id": "1",
+            "profile_image": "gawr-gura.png",
+            "name": "Gawr Gura",
+            "bio": "Gura is a descendant of the Lost City of Atlantis, who swam to Earth while saying 'It's so boring down there LOLOLOL!' She bought her clothes (and her shark hat) in the human world and she really loves them. In her spare time, she enjoys talking to marine life. Gura is over nine thousand years old, however she has forgotten her exact age some time after reaching five thousand. When asked, she will produce a random number in the nine thousands.",
+            "type": "Shark",
+            "health_point": 60,
+            "mana_point": 20,
+            "damage": 75,
+            "defense": 35,
+            "speed": 90,
+            "created_at": "2021-02-07 07:32:19",
+            "updated_at": "2021-02-07 07:32:19"
+        },
+        {
+            "character_id": "2",
+            "profile_image": "inugami-korone.png",
+            "name": "Inugami Korone",
+            "bio": "'G'morning! Fingers! Give me your fingers!!' The dog from a random bakery. She likes to play games when she has free time while watchdogging.",
+            "type": "Puppy",
+            "health_point": 50,
+            "mana_point": 10,
+            "damage": 20,
+            "defense": 30,
+            "speed": 70,
+            "created_at": "2021-02-07 09:32:19",
+            "updated_at": "2021-02-07 09:32:19"
+        },
+        {
+            "character_id": "3",
+            "profile_image": "momosuzu-nene.png",
+            "name": "Momosuzu Nene",
+            "bio": "A girl who came from another world to chase after her idol dream. She likes singing, dancing, and drawing. She trains hard every day in order to win the hearts of even more people.",
+            "type": "Bears",
+            "health_point": 60,
+            "mana_point": 70,
+            "damage": 30,
+            "defense": 60,
+            "speed": 35,
+            "created_at": "2021-02-07 11:32:19",
+            "updated_at": "2021-02-07 11:32:19"
+        },
+        {
+            "character_id": "4",
+            "profile_image": "ayunda-risu.png",
+            "name": "Ayunda Risu",
+            "bio": "A squirrel girl who comes from the magicial forest. She once lost her way in the human realm, but was then saved by a kind-hearted woman with whom she is now living. She treats this woman as her big sis.",
+            "type": "Squirrel",
+            "health_point": 40,
+            "mana_point": 15,
+            "damage": 35,
+            "defense": 20,
+            "speed": 95,
+            "created_at": "2021-02-07 11:32:19",
+            "updated_at": "2021-02-07 11:32:19"
+        }
+    ]
+}
