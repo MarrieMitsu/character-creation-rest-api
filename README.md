@@ -1,7 +1,7 @@
 # character-creation-rest-api
 
 ## Description
-Yep a simple REST-API for testing, The data I use are just random things that pop out of my mind.
+Yep a simple Fake REST-API for testing, The data I use are just random things that pop out of my mind.
 
 ## Usage
 
