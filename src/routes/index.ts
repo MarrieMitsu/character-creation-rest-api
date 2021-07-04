@@ -1,6 +1,6 @@
 // Packages
 import { Router } from "express";
-import { CharacterRouter } from "../routes/character";
+import { CharacterRouter } from "./character";
 
 // API Route
 export const router = Router();

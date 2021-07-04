@@ -14,7 +14,7 @@ import "./utils/env";
             origin: "*",
         })
     );
-    app.use(express.urlencoded());
+    app.use(express.urlencoded({ extended: true }));
     app.use(express.static(path.join(__dirname, 'public')));
 
     // Routes
