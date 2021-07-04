@@ -7,19 +7,19 @@ Yep a simple Fake REST-API for testing, The data I use are just random things th
 
 ```bash
 # Install dependencies
-yarn
+pnpm
 
 # Development
-yarn watch
+pnpm watch
 
-yarn dev
+pnpm dev
 # or
-yarn ts-start
+pnpm ts-start
 
 # Production
-yarn build
+pnpm build
 
-yarn start
+pnpm start
 ```
 
 # Authors
